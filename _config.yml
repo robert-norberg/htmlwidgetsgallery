@@ -1348,7 +1348,7 @@ widgets:
     jslibs: >
       [d3pie.js](http://d3pie.org/)
     ghuser: mrjoh3
-    ghrepo: c3
+    ghrepo: pier
     tags: visualization, pie and donut charts
     cran: false
     release:
