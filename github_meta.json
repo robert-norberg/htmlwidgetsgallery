@@ -85,16 +85,16 @@
   },
   "rstudio_leaflet": {
     "cran": true,
-    "stargazers_count": 807,
+    "stargazers_count": 808,
     "open_issues_count": 307,
     "forks_count": 508,
-    "watchers_count": 807
+    "watchers_count": 808
   },
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 599,
     "open_issues_count": 197,
-    "forks_count": 180,
+    "forks_count": 179,
     "watchers_count": 599
   },
   "rstudio_dygraphs": {
@@ -122,7 +122,7 @@
     "cran": true,
     "stargazers_count": 652,
     "open_issues_count": 78,
-    "forks_count": 269,
+    "forks_count": 268,
     "watchers_count": 652
   },
   "bwlewis_rthreejs": {
@@ -136,7 +136,7 @@
     "cran": true,
     "stargazers_count": 1702,
     "open_issues_count": 166,
-    "forks_count": 248,
+    "forks_count": 247,
     "watchers_count": 1702
   },
   "jpmarindiaz_sigmaGraph": {
@@ -304,14 +304,14 @@
     "cran": false,
     "stargazers_count": 313,
     "open_issues_count": 73,
-    "forks_count": 67,
+    "forks_count": 66,
     "watchers_count": 313
   },
   "rstudio_d3heatmap": {
     "cran": false,
     "stargazers_count": 236,
     "open_issues_count": 45,
-    "forks_count": 95,
+    "forks_count": 93,
     "watchers_count": 236
   },
   "smartinsightsfromdata_rpivotTable": {
@@ -325,7 +325,7 @@
     "cran": true,
     "stargazers_count": 694,
     "open_issues_count": 64,
-    "forks_count": 79,
+    "forks_count": 78,
     "watchers_count": 694
   },
   "jcheng5_bubbles": {
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2557,
-    "open_issues_count": 710,
+    "open_issues_count": 712,
     "forks_count": 626,
     "watchers_count": 2557
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 792,
+    "stargazers_count": 793,
     "open_issues_count": 20,
-    "forks_count": 74,
-    "watchers_count": 792
+    "forks_count": 73,
+    "watchers_count": 793
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -512,10 +512,10 @@
   },
   "environmentalinformatics-marburg_mapview": {
     "cran": true,
-    "stargazers_count": 518,
+    "stargazers_count": 519,
     "open_issues_count": 91,
     "forks_count": 90,
-    "watchers_count": 518
+    "watchers_count": 519
   },
   "cran_qrage": {
     "cran": false,
@@ -549,7 +549,7 @@
     "cran": true,
     "stargazers_count": 160,
     "open_issues_count": 3,
-    "forks_count": 24,
+    "forks_count": 22,
     "watchers_count": 160
   },
   "mtennekes_tmap": {
@@ -563,7 +563,7 @@
     "cran": true,
     "stargazers_count": 545,
     "open_issues_count": 153,
-    "forks_count": 126,
+    "forks_count": 125,
     "watchers_count": 545
   },
   "neuhausi_canvasXpress": {
@@ -591,14 +591,14 @@
     "cran": true,
     "stargazers_count": 660,
     "open_issues_count": 3,
-    "forks_count": 157,
+    "forks_count": 156,
     "watchers_count": 660
   },
   "lchiffon_wordcloud2": {
     "cran": true,
     "stargazers_count": 397,
     "open_issues_count": 49,
-    "forks_count": 113,
+    "forks_count": 107,
     "watchers_count": 397
   },
   "kitware_candela": {
