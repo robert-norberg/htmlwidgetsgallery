@@ -57,10 +57,10 @@
   },
   "metrumresearchgroup_d3Tree": {
     "cran": true,
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 0,
     "forks_count": 34,
-    "watchers_count": 86
+    "watchers_count": 87
   },
   "metrumresearchgroup_slickR": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1703,
+    "stargazers_count": 1702,
     "open_issues_count": 166,
-    "forks_count": 247,
-    "watchers_count": 1703
+    "forks_count": 249,
+    "watchers_count": 1702
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -318,7 +318,7 @@
     "cran": true,
     "stargazers_count": 285,
     "open_issues_count": 41,
-    "forks_count": 71,
+    "forks_count": 72,
     "watchers_count": 285
   },
   "renkun-ken_formattable": {
