@@ -64,10 +64,10 @@
   },
   "metrumresearchgroup_slickR": {
     "cran": true,
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 17,
     "forks_count": 14,
-    "watchers_count": 159
+    "watchers_count": 160
   },
   "htmlwidgets_datamaps": {
     "cran": false,
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1702,
+    "stargazers_count": 1701,
     "open_issues_count": 166,
     "forks_count": 249,
-    "watchers_count": 1702
+    "watchers_count": 1701
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
@@ -176,10 +176,10 @@
   },
   "jrowen_rhandsontable": {
     "cran": true,
-    "stargazers_count": 384,
+    "stargazers_count": 385,
     "open_issues_count": 165,
     "forks_count": 148,
-    "watchers_count": 384
+    "watchers_count": 385
   },
   "timelyportfolio_rcdimple": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 793,
+    "stargazers_count": 794,
     "open_issues_count": 20,
     "forks_count": 73,
-    "watchers_count": 793
+    "watchers_count": 794
   },
   "SymbolixAU_googleway": {
     "cran": true,
