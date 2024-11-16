@@ -17,7 +17,7 @@
     "cran": true,
     "stargazers_count": 42,
     "open_issues_count": 2,
-    "forks_count": 9,
+    "forks_count": 10,
     "watchers_count": 42
   },
   "yonicd_rpdf": {
@@ -134,10 +134,10 @@
   },
   "rich-iannone_DiagrammeR": {
     "cran": true,
-    "stargazers_count": 1703,
+    "stargazers_count": 1704,
     "open_issues_count": 166,
-    "forks_count": 249,
-    "watchers_count": 1703
+    "forks_count": 246,
+    "watchers_count": 1704
   },
   "jpmarindiaz_sigmaGraph": {
     "cran": false,
