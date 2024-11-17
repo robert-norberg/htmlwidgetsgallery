@@ -310,7 +310,7 @@
   "rstudio_d3heatmap": {
     "cran": false,
     "stargazers_count": 236,
-    "open_issues_count": 44,
+    "open_issues_count": 43,
     "forks_count": 93,
     "watchers_count": 236
   },
@@ -472,7 +472,7 @@
     "cran": true,
     "stargazers_count": 2565,
     "open_issues_count": 713,
-    "forks_count": 626,
+    "forks_count": 627,
     "watchers_count": 2565
   },
   "tutuchan_morrisjs": {
