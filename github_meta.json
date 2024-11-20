@@ -135,7 +135,7 @@
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1704,
-    "open_issues_count": 166,
+    "open_issues_count": 167,
     "forks_count": 246,
     "watchers_count": 1704
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2566,
+    "stargazers_count": 2569,
     "open_issues_count": 713,
     "forks_count": 627,
-    "watchers_count": 2566
+    "watchers_count": 2569
   },
   "tutuchan_morrisjs": {
     "cran": false,
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 801,
+    "stargazers_count": 803,
     "open_issues_count": 15,
     "forks_count": 74,
-    "watchers_count": 801
+    "watchers_count": 803
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -507,7 +507,7 @@
     "cran": true,
     "stargazers_count": 721,
     "open_issues_count": 64,
-    "forks_count": 149,
+    "forks_count": 150,
     "watchers_count": 721
   },
   "environmentalinformatics-marburg_mapview": {
