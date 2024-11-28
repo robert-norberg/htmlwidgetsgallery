@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 423,
+    "stargazers_count": 424,
     "open_issues_count": 11,
     "forks_count": 40,
-    "watchers_count": 423
+    "watchers_count": 424
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -64,10 +64,10 @@
   },
   "metrumresearchgroup_slickR": {
     "cran": true,
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 17,
     "forks_count": 14,
-    "watchers_count": 160
+    "watchers_count": 161
   },
   "htmlwidgets_datamaps": {
     "cran": false,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2572,
-    "open_issues_count": 714,
+    "open_issues_count": 715,
     "forks_count": 627,
     "watchers_count": 2572
   },
@@ -491,10 +491,10 @@
   },
   "davidgohel_ggiraph": {
     "cran": true,
-    "stargazers_count": 807,
+    "stargazers_count": 810,
     "open_issues_count": 15,
     "forks_count": 74,
-    "watchers_count": 807
+    "watchers_count": 810
   },
   "SymbolixAU_googleway": {
     "cran": true,
@@ -716,7 +716,7 @@
   "JohnCoene_echarts4r": {
     "cran": true,
     "stargazers_count": 601,
-    "open_issues_count": 159,
+    "open_issues_count": 160,
     "forks_count": 81,
     "watchers_count": 601
   },
