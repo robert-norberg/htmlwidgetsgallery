@@ -99,10 +99,10 @@
   },
   "rstudio_dygraphs": {
     "cran": true,
-    "stargazers_count": 364,
-    "open_issues_count": 120,
+    "stargazers_count": 365,
+    "open_issues_count": 121,
     "forks_count": 193,
-    "watchers_count": 364
+    "watchers_count": 365
   },
   "hrbrmstr_metricsgraphics": {
     "cran": false,
@@ -589,10 +589,10 @@
   },
   "daattali_timevis": {
     "cran": true,
-    "stargazers_count": 661,
-    "open_issues_count": 3,
-    "forks_count": 155,
-    "watchers_count": 661
+    "stargazers_count": 662,
+    "open_issues_count": 4,
+    "forks_count": 156,
+    "watchers_count": 662
   },
   "lchiffon_wordcloud2": {
     "cran": true,
