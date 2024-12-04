@@ -120,10 +120,10 @@
   },
   "christophergandrud_networkD3": {
     "cran": true,
-    "stargazers_count": 652,
+    "stargazers_count": 653,
     "open_issues_count": 78,
     "forks_count": 268,
-    "watchers_count": 652
+    "watchers_count": 653
   },
   "bwlewis_rthreejs": {
     "cran": true,
@@ -533,10 +533,10 @@
   },
   "datastorm-open_rAmCharts": {
     "cran": true,
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 16,
     "forks_count": 17,
-    "watchers_count": 48
+    "watchers_count": 49
   },
   "rforge_rgl": {
     "cran": true,
@@ -715,10 +715,10 @@
   },
   "JohnCoene_echarts4r": {
     "cran": true,
-    "stargazers_count": 601,
+    "stargazers_count": 602,
     "open_issues_count": 160,
     "forks_count": 81,
-    "watchers_count": 601
+    "watchers_count": 602
   },
   "helgasoft_echarty": {
     "cran": true,
@@ -737,7 +737,7 @@
   "SymbolixAU_mapdeck": {
     "cran": true,
     "stargazers_count": 363,
-    "open_issues_count": 77,
+    "open_issues_count": 76,
     "forks_count": 40,
     "watchers_count": 363
   },
@@ -785,10 +785,10 @@
   },
   "dreamRs_apexcharter": {
     "cran": true,
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 14,
     "forks_count": 15,
-    "watchers_count": 142
+    "watchers_count": 143
   },
   "dreamRs_tuichartr": {
     "cran": false,
