@@ -1,10 +1,10 @@
 {
   "Kanaries_GWalkR": {
     "cran": true,
-    "stargazers_count": 427,
+    "stargazers_count": 428,
     "open_issues_count": 11,
     "forks_count": 40,
-    "watchers_count": 427
+    "watchers_count": 428
   },
   "DIGI-VUB_recogito": {
     "cran": true,
@@ -471,7 +471,7 @@
   "ropensci_plotly": {
     "cran": true,
     "stargazers_count": 2574,
-    "open_issues_count": 716,
+    "open_issues_count": 717,
     "forks_count": 628,
     "watchers_count": 2574
   },
@@ -603,10 +603,10 @@
   },
   "kitware_candela": {
     "cran": false,
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 98,
     "forks_count": 29,
-    "watchers_count": 117
+    "watchers_count": 118
   },
   "AdeelK93_collapsibleTree": {
     "cran": true,
@@ -737,7 +737,7 @@
   "SymbolixAU_mapdeck": {
     "cran": true,
     "stargazers_count": 363,
-    "open_issues_count": 76,
+    "open_issues_count": 77,
     "forks_count": 40,
     "watchers_count": 363
   },
