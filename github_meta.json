@@ -135,8 +135,8 @@
   "rich-iannone_DiagrammeR": {
     "cran": true,
     "stargazers_count": 1702,
-    "open_issues_count": 166,
-    "forks_count": 246,
+    "open_issues_count": 167,
+    "forks_count": 247,
     "watchers_count": 1702
   },
   "jpmarindiaz_sigmaGraph": {
@@ -316,10 +316,10 @@
   },
   "smartinsightsfromdata_rpivotTable": {
     "cran": true,
-    "stargazers_count": 285,
+    "stargazers_count": 286,
     "open_issues_count": 41,
     "forks_count": 72,
-    "watchers_count": 285
+    "watchers_count": 286
   },
   "renkun-ken_formattable": {
     "cran": true,
@@ -673,10 +673,10 @@
   },
   "lineupjs_lineup_htmlwidget": {
     "cran": true,
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 2,
     "forks_count": 9,
-    "watchers_count": 54
+    "watchers_count": 55
   },
   "upsetjs_upsetjs_r": {
     "cran": true,
