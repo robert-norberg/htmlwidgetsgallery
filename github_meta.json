@@ -93,7 +93,7 @@
   "rstudio_DT": {
     "cran": true,
     "stargazers_count": 600,
-    "open_issues_count": 197,
+    "open_issues_count": 198,
     "forks_count": 181,
     "watchers_count": 600
   },
@@ -470,10 +470,10 @@
   },
   "ropensci_plotly": {
     "cran": true,
-    "stargazers_count": 2577,
-    "open_issues_count": 720,
+    "stargazers_count": 2579,
+    "open_issues_count": 721,
     "forks_count": 627,
-    "watchers_count": 2577
+    "watchers_count": 2579
   },
   "tutuchan_morrisjs": {
     "cran": false,
