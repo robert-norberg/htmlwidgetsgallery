@@ -92,10 +92,10 @@
   },
   "rstudio_DT": {
     "cran": true,
-    "stargazers_count": 603,
+    "stargazers_count": 602,
     "open_issues_count": 199,
     "forks_count": 182,
-    "watchers_count": 603
+    "watchers_count": 602
   },
   "rstudio_dygraphs": {
     "cran": true,
@@ -855,10 +855,10 @@
   },
   "stla_jsTreeR": {
     "cran": true,
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 8,
     "forks_count": 4,
-    "watchers_count": 46
+    "watchers_count": 47
   },
   "stla_thorn": {
     "cran": true,
