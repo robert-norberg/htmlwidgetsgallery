@@ -15,10 +15,10 @@
   },
   "dipterix_threeBrain": {
     "cran": true,
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 3,
     "forks_count": 10,
-    "watchers_count": 42
+    "watchers_count": 43
   },
   "yonicd_rpdf": {
     "cran": false,
@@ -94,7 +94,7 @@
     "cran": true,
     "stargazers_count": 602,
     "open_issues_count": 199,
-    "forks_count": 182,
+    "forks_count": 183,
     "watchers_count": 602
   },
   "rstudio_dygraphs": {
@@ -723,7 +723,7 @@
   "helgasoft_echarty": {
     "cran": true,
     "stargazers_count": 90,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 3,
     "watchers_count": 90
   },
