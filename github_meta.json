@@ -94,7 +94,7 @@
     "cran": true,
     "stargazers_count": 603,
     "open_issues_count": 199,
-    "forks_count": 183,
+    "forks_count": 184,
     "watchers_count": 603
   },
   "rstudio_dygraphs": {
@@ -318,7 +318,7 @@
     "cran": true,
     "stargazers_count": 287,
     "open_issues_count": 41,
-    "forks_count": 72,
+    "forks_count": 73,
     "watchers_count": 287
   },
   "renkun-ken_formattable": {
@@ -561,10 +561,10 @@
   },
   "datastorm-open_visNetwork": {
     "cran": true,
-    "stargazers_count": 545,
+    "stargazers_count": 546,
     "open_issues_count": 153,
     "forks_count": 125,
-    "watchers_count": 545
+    "watchers_count": 546
   },
   "neuhausi_canvasXpress": {
     "cran": true,
